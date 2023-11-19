@@ -1,0 +1,11 @@
+.sec-1 .animate{
+    transform: translateX(-100%);
+}
+
+.sec-1 .animate{
+    transform: translateX(0);
+}
+
+section .animate{
+    transition: 1;
+}
